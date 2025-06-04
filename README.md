@@ -36,7 +36,7 @@ Current resources: **Site**, **MSP**. Future‑ready for any other resource wtih
   "targetId": 3,
   "requester": 14,
   "requesterEmail": "guest@foo.com",
-  "requestee": 2,                     // Owner / manager
+  "requestee": 2,                     // Owner 
   "requesteeEmail": "owner@bar.com",
   "requestedLevel": "FULL_TIME_GUEST",
   "status": "PENDING",              // RequestStatus
